@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462371359898",
+    "project_id": "tile-blossom",
+    "storage_bucket": "tile-blossom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462371359898:android:5d8a5c1305e0fa592e2323",
+        "android_client_info": {
+          "package_name": "com.puzzlecraft.tilematch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKP8C3DAodb6sJ9fkM1RM0_kyORfSB6kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
